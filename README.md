@@ -1,2 +1,5 @@
-# Aula
-Projeto de exemplo 
+#Aprendendo Github
+Faculdade de Tecnologia de Tatuí
+
+#Disciplina
+Linguagens de Programação
